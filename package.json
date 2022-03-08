@@ -1,0 +1,26 @@
+{
+  "name": "muserproject",
+  "version": "1.0.0",
+  "description": "Manages access to your assets",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^3.27.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almogeldabach/muser.git"
+  },
+  "author": "Almog Eldabach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almogeldabach/muser/issues"
+  },
+  "homepage": "https://github.com/almogeldabach/muser#readme"
+}
